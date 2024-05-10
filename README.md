@@ -3,10 +3,10 @@
 
 <div align="center" href="https://github.com/DiegoAntonio-M">
     <a href="https://github.com/DiegoAntonio-M" style="text-decoration:none">
-      <img height="140em" width="475em" src="https://github-readme-stats.vercel.app/api?username=DiegoAntonio-M&show_icons=true&theme=holi&locale=pt-br&bg_color=-45,030314,0a0a24,0a0a24&include_all_commits=null&count_private=true&hide_border=false&border_radius=5" />
+      <img height="135em" width="475em" src="https://github-readme-stats.vercel.app/api?username=DiegoAntonio-M&show_icons=true&theme=holi&locale=pt-br&bg_color=-45,030314,0a0a24,0a0a24&include_all_commits=null&count_private=true&hide_border=false&border_radius=5" />
     </a>
     <a href="https://github.com/DiegoAntonio-M" style="text-decoration:none">
-      <img height="140em" width="475em" src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoAntonio-M&layout=compact&langs_count=8&theme=holi&locale=pt-br&bg_color=-45,030314,0a0a24,0a0a24&hide_border=false&border_radius=5&langs_count=16" />
+      <img height="135em" width="475em" src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoAntonio-M&layout=compact&langs_count=8&theme=holi&locale=pt-br&bg_color=-45,030314,0a0a24,0a0a24&hide_border=false&border_radius=5&langs_count=16" />
     </a>
 </div>
 
